@@ -1,8 +1,10 @@
 {
   "type": "module",
   "dependencies": {
-    "jest": "^29.7.0",
     "lodash": "^4.17.21",
     "power-assert": "^1.6.1"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
   }
 }
